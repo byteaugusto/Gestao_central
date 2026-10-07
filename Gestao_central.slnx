@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="CalculoJuros.csproj" />
-  <Project Path="ControleEstoque.csproj" />
-  <Project Path="Gestao_central.csproj" />
+  <Project Path="CalculoJuros/CalculoJuros.csproj" />
+  <Project Path="ControleEstoque/ControleEstoque.csproj" />
+  <Project Path="Gestao_central/Gestao_central.csproj" />
 </Solution>
